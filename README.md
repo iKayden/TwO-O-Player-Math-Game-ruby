@@ -13,4 +13,5 @@ The game doesn’t end until one of the players loses all of their lives. At thi
 !["Example prompt"](./1.png)
 
 <hr>
+
 ### Made by [Kayden](https://github.com/iKayden)
